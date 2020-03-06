@@ -1,1 +1,1 @@
-A tetris game i made using c++ and SFML graphic library.
+A tetris game I made using C++ and SFML graphics library.
